@@ -1,5 +1,3 @@
-import pandas as pd
-import pandas as np
-import matplotlib.pyplot as pyplot
+import numpy as np
 
-data
+x = np.array([[1,2], [3, 4]])
